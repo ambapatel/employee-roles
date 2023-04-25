@@ -13,9 +13,9 @@ return [
     |
     */
 
-    'welcome_to_strive' => 'Welcome to Strive App',
+    'welcome_to_admin' => 'Welcome to Employee Admin Panel',
     'sign_in_to_continue' => 'Sign in to your account to continue',
-    'app_name' => 'Strive Admin',
+    'app_name' => 'Employee Admin',
     'employee' => 'Employee',
     'first_name' => 'First Name',
     'id' => 'Id',

@@ -28,7 +28,7 @@
             <div class="d-table-cell align-middle">
 
                 <div class="text-center mt-4">
-                    <h1 class="h2">{{__('admin.welcome_to_strive')}}</h1>
+                    <h1 class="h2">{{__('admin.welcome_to_admin')}}</h1>
                     <p class="lead">
                         {{__('admin.sign_in_to_continue')}}
                     </p>
@@ -54,11 +54,7 @@
                                     @enderror
                                 </div>
                                 <div class="mb-3">
-                                    <!-- <label class="form-label">Password</label>
-                                    <input class="form-control form-control-lg" type="password" name="password" placeholder="Enter your password" /> -->
-                                    <!-- <small>
-                                        <a href="index.html">Forgot password?</a>
-                                    </small> -->
+                                   
 
                                     <label for="password" class="form-label text-md-end">{{ __('Password') }}</label>
 
